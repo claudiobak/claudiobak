@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Claudio!
 👩🏻‍💻 Front-end dev and digital designer<br>
-📚 Studied Communication and Multimedia design at the Amsterdam University of Applied Sciences<br>
+📚 Studying Communication and Multimedia design at the Amsterdam University of Applied Sciences<br>
 😺 Professional button pusher (figuratively, of course). Making magic happen with code, one line at a time. <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=claudiobak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
