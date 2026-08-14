@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Claudio!
 👩🏻‍💻 Front-end dev and digital designer<br>
-📚 Studying Communication and Multimedia design at the Amsterdam University of Applied Sciences<br>
+📚 Studied Communication and Multimedia design at the Amsterdam University of Applied Sciences<br>
 😺 Professional button pusher (figuratively, of course). Making magic happen with code, one line at a time. <br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=claudiobak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>   -->
@@ -16,5 +16,5 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=claudiobak&theme=dark&hide_border=false)<br/>  -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
-<!-- ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>   -->
+<!-- ### 😂 Random Dev Meme -->
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>  
