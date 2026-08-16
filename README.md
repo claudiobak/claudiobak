@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Claudio!
+# Hi, I'm Claudio! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6cc4fb6a-0520-4783-a973-32ff43160261" />
 👩🏻‍💻 Front-end dev and digital designer<br>
 📚 Studied Communication and Multimedia design at the Amsterdam University of Applied Sciences<br>
 😺 Professional button pusher (figuratively, of course). Making magic happen with code, one line at a time. <br/>
