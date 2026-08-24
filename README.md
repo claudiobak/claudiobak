@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Claudio!
 
-💻 Front-end developer and digital designer from the Netherlands  
-🎓 Studied Communication and Multimedia Design at the Amsterdam University of Applied Sciences  
-🎨 I combine design and development to create intuitive digital experiences  
+💻 Front-end Developer & Product Designer (UX/UI) from the Netherlands.
+🎓 BSc in Communication and Multimedia Design @ the Amsterdam University of Applied Sciences 
+🛠️ I design digital products and build them for the web.
 
 ## 💻 Tech Stack
 
