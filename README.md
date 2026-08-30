@@ -10,7 +10,7 @@
 const claudio = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python"],
   frameworks: ["React", "Next.js", "Vue.js", "Nuxt"],
-  backend: ["Supabase", "MongoDB", "MySQL", "PostgreSQL"]
+  backend: ["MongoDB", "Supabase", "MySQL", "PostgreSQL"]
 };
 ```
 
