@@ -16,4 +16,4 @@ const claudio = {
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/claudiobakker/)
